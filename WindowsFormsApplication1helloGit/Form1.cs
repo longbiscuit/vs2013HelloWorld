@@ -19,6 +19,8 @@ namespace WindowsFormsApplication1helloGit
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("hello git!");
+            MessageBox.Show("hello world!");
+        
         }
     }
 }

@@ -20,7 +20,7 @@ namespace WindowsFormsApplication1helloGit
         {
             MessageBox.Show("hello git!");
             MessageBox.Show("更改链接方式为ssh");
-
+            //弹出对话框
             MessageBox.Show("hello world!");
         
         }

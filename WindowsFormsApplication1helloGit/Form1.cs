@@ -18,9 +18,11 @@ namespace WindowsFormsApplication1helloGit
 
         private void button1_Click(object sender, EventArgs e)
         {
+            //弹出对话框
             MessageBox.Show("hello git!");
             MessageBox.Show("更改链接方式为ssh");
             //弹出对话框
+
             MessageBox.Show("hello world!");
         
         }
